@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Peram Venkata Siva Reddy
 
-**🚀 Aspiring Software Developer | 👨‍💻 C | Python | Java | HTML | CSS | JavaScript (Basics) | SQL | Windows**
+**🚀 Aspiring Software Developer | 👨‍💻 C | Python | Machine Learning | Java | HTML | CSS | JavaScript (Basics) | SQL | Windows**
 
 I'm an enthusiastic engineering student passionate about problem-solving, building impactful tech solutions, and continuously learning. Whether it's developing game platforms or working on data prediction systems, I love diving into challenging problems and finding innovative solutions.
 
